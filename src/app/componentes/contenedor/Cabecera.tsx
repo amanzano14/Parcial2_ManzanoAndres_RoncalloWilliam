@@ -41,7 +41,7 @@ export const Cabecera = () => {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
-                  Menus
+                  Clientes
                 </a>
                 <ul className="dropdown-menu">
                   <li>

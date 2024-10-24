@@ -1,4 +1,4 @@
-export const MenuCrear = () => {
+export const CrearPrestamo = () => {
   return (
     <>
       Hola, ¡Soy el menu crear! <br />

@@ -1,4 +1,4 @@
-export const MenuActualizar = () => {
+export const ActualizarPrestamo = () => {
   return (
     <>
       Hola, ¡Soy el menu actualizar! <br />

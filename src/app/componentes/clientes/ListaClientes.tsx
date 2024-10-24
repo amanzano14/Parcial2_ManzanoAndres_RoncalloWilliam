@@ -1,4 +1,4 @@
-export const MenuListar = () => {
+export const ListarClientes = () => {
   return (
     <>
       Hola, ¡Soy el menu listar! <br />
